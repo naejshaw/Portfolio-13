@@ -9,7 +9,7 @@
 
 body{
     min-height: 100vh;
-    background: url('https://github.com/naejshaw/Portfolio-13/blob/main/src/img/background.jpg') no-repeat;
+    background: url(https://github.com/naejshaw/Portfolio-13/blob/main/src/img/background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
